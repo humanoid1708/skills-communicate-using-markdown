@@ -18,3 +18,9 @@ int main() {
 ```
 
 This shows a code snippet or code block
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+This creates a new task list
