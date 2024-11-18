@@ -9,3 +9,12 @@ This shows the different header sizes for markdown language
 
 This shows an image
 
+```
+#include <stdio.h>
+int main() {
+
+  return 0;
+}
+```
+
+This shows a code snippet or code block
